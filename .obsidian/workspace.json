@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/topics_frontend/User-user kNN.md",
+                "file": "docs/topics_frontend/Two-stage Architectures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/topics_frontend/User-user kNN.md",
+                "file": "docs/topics_frontend/Two-stage Architectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/topics_frontend/User-user kNN.md",
+                "file": "docs/topics_frontend/Two-stage Architectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/topics_frontend/User-user kNN.md"
+                "file": "docs/topics_frontend/Two-stage Architectures.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3e62ccb3b887a2df",
   "lastOpenFiles": [
-    "docs/graph-data-frontend 1.canvas",
     "docs/graph-data-frontend.canvas",
     "docs/topics_frontend/User-user kNN.md",
+    "docs/graph-data-frontend 1.canvas",
     "docs/topics_frontend/Neighbour-based CF.md",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
