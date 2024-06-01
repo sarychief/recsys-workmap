@@ -15,9 +15,9 @@
               "state": {
                 "file": "docs/graph-data-frontend 1.canvas",
                 "viewState": {
-                  "x": 718.0116642655398,
-                  "y": 1041.7087590437397,
-                  "zoom": -1.7163611756368249
+                  "x": 1060.543752105429,
+                  "y": 594.5748860588986,
+                  "zoom": -1.2404644944870244
                 }
               }
             }
@@ -151,14 +151,44 @@
   },
   "active": "3e62ccb3b887a2df",
   "lastOpenFiles": [
-    "docs/graph-data-frontend.canvas",
+    "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/service_workflow.ts",
+    "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/azure_token_cache.js",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/callback_workflow.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/callback_lock_cache.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/cache.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_token_cache.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_service_workflow.ts",
+    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/aws_service_workflow.ts",
+    "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/token_entry_cache.js.map",
+    "node_modules/mongoose/node_modules/@types/whatwg-url/README.md",
+    "node_modules/send/node_modules/ms/readme.md",
+    "node_modules/send/node_modules/ms/license.md",
+    "node_modules/nodemon/node_modules/debug/README.md",
+    "node_modules/nodemon/node_modules/ms/readme.md",
+    "node_modules/nodemon/node_modules/ms/license.md",
+    "node_modules/mquery/node_modules/ms/readme.md",
+    "node_modules/mquery/node_modules/ms/license.md",
+    "node_modules/mquery/node_modules/debug/README.md",
+    "node_modules/mongoose/node_modules/whatwg-url/README.md",
+    "node_modules/mongoose/node_modules/ms/readme.md",
+    "node_modules/mongoose/node_modules/ms/license.md",
+    "node_modules/mongoose/node_modules/tr46/README.md",
+    "node_modules/mongoose/node_modules/tr46/LICENSE.md",
+    "node_modules/mongoose/node_modules/mongodb-connection-string-url/README.md",
+    "node_modules/mongoose/node_modules/mongodb/README.md",
+    "node_modules/mongoose/node_modules/mongodb/LICENSE.md",
+    "node_modules/mongoose/lib/drivers/SPEC.md",
+    "node_modules/bson/vendor/text-encoding/README.md",
+    "node_modules/bson/vendor/text-encoding/LICENSE.md",
+    "node_modules/bson/vendor/base64/README.md",
+    "node_modules/@types/whatwg-url/README.md",
+    "node_modules/@types/node/README.md",
+    "node_modules/@types/webidl-conversions/README.md",
+    "node_modules/@mongodb-js/saslprep/readme.md",
     "docs/graph-data-frontend 1.canvas",
-    "Equation/Computer sciences/Data Science/Рекомендательные системы/Two-stage Architectures.md",
-    "Equation/Computer sciences/Data Science/Рекомендательные системы",
-    "Equation/Computer sciences/Data Science",
-    "Equation/Computer sciences",
-    "Equation",
-    "Без названия 2.md",
+    "docs/graph-data-frontend.canvas",
     "Pasted image 20240427213256.png"
   ]
 }
