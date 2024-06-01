@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #bcd5e8;
 }
 header {
-    background-color: #919191;
+    background-color: #567891;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -90,7 +90,7 @@ main {
     border: 1px solid black;
     border-radius: 5px;
     padding: 15px 30px;
-    color: red;
+    color: blue;
     font-weight: bold;
 }
 
@@ -104,7 +104,7 @@ main {
     z-index: 100;
 }
 footer {
-    background-color: #919191;
+    background-color: #567891;
     color: #fff;
     text-align: center;
     padding: 10px;
