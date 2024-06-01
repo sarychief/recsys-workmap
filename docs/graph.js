@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     let graphData;
 
     try {
-        const response = await fetch('./graph-data-frontend 1.canvas');
+        const response = await fetch('./graph-data-frontend.canvas');
         if (!response.ok) {
             throw new Error('Ошибка загрузки файла');
         }

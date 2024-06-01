@@ -11,14 +11,11 @@
             "id": "3e62ccb3b887a2df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/graph-data-frontend 1.canvas",
-                "viewState": {
-                  "x": 1060.543752105429,
-                  "y": 594.5748860588986,
-                  "zoom": -1.3385838622454576
-                }
+                "file": "docs/topics_frontend/User-user kNN.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/graph-data-frontend 1.canvas",
+                "file": "docs/topics_frontend/User-user kNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/graph-data-frontend 1.canvas",
+                "file": "docs/topics_frontend/User-user kNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/graph-data-frontend 1.canvas"
+                "file": "docs/topics_frontend/User-user kNN.md"
               }
             }
           }
@@ -151,6 +148,10 @@
   },
   "active": "3e62ccb3b887a2df",
   "lastOpenFiles": [
+    "docs/graph-data-frontend 1.canvas",
+    "docs/graph-data-frontend.canvas",
+    "docs/topics_frontend/User-user kNN.md",
+    "docs/topics_frontend/Neighbour-based CF.md",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/service_workflow.ts",
@@ -161,7 +162,6 @@
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_token_cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_service_workflow.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/aws_service_workflow.ts",
-    "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/token_entry_cache.js.map",
     "node_modules/mongoose/node_modules/@types/whatwg-url/README.md",
     "node_modules/send/node_modules/ms/readme.md",
     "node_modules/send/node_modules/ms/license.md",
@@ -185,10 +185,6 @@
     "node_modules/bson/vendor/base64/README.md",
     "node_modules/@types/whatwg-url/README.md",
     "node_modules/@types/node/README.md",
-    "node_modules/@types/webidl-conversions/README.md",
-    "node_modules/@mongodb-js/saslprep/readme.md",
-    "docs/graph-data-frontend 1.canvas",
-    "docs/graph-data-frontend.canvas",
     "Pasted image 20240427213256.png"
   ]
 }
