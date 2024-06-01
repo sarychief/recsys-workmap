@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             x: node.x,
             y: node.y,
             size: 1,
-            color: 'red',
+            color: 'blue',
         });
     });
 

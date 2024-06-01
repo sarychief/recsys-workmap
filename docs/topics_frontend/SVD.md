@@ -7,56 +7,8 @@
 	- Выбираем топ объектов по полученным значениям
 
 $$\LARGE A = U\Sigma V^T$$
-$$
-\begin{bmatrix}
-\color{green}{} & 
-\color{blue}{} & 
-\color{blue}{} & 
-\color{blue}{} & 
-\\
-\color{orange}{} & 
-&
-\color{blue}
-& 
-\color{blue}
-\\
-\color{orange}{} &
-\color{orange}{}
-\\
-\color{orange}{} & 
-\color{orange}{} & 
-\end{bmatrix}^{\color{white}A \in\mathbb{R}^{(m, n)}}
-
-=
-
-\color{blue}{\begin{bmatrix}
-\color{blue}{} & 
-\\
-\color{blue}{} & 
-\\
-\color{blue}{} &
-\\
-\color{blue}{} & 
-\end{bmatrix}}^{\color{white}U\in\mathbb{R}^{(m, m)}}_{\color{white}\text{орт. матрица}}
-\color{white}
-
-\times
-
-\color{green}{\begin{bmatrix}
-\color{blue}{} & &
-\\
-\color{blue}{} & 
-
-\end{bmatrix}}^{\color{white}\Sigma\in\mathbb{R}^{(m, n)}}_{\color{white}\begin{matrix}\text{диаг. матрица}\\ k = \min(m,n)\end{matrix}}
-\color{white}
-
-\times
-
-\color{orange}{\begin{bmatrix}
- &  &  & & & 
-
-\end{bmatrix}^{\color{white}V^T\in\mathbb{R}^{(n, n)}}_{\color{white}\text{орт. матрица}}}
-$$
+$$\begin{bmatrix}{} & &  &  & \\ & && \\ &\\ &  & \end{bmatrix}^{A \in\mathbb{R}^{(m, n)}}={\begin{bmatrix}{} & \\{} & \\ &\\ & \end{bmatrix}}^{U\in\mathbb{R}^{(m, m)}}_{\text{орт. матрица}}\times{\begin{bmatrix} & & \\  & \end{bmatrix}}^{\Sigma\in\mathbb{R}^{(m, n)}}_{\begin{matrix}\text{диаг. матрица}\\ k = \min(m,n)\end{matrix}}
+\times{\begin{bmatrix} &  &  & & & \end{bmatrix}^{V^T\in\mathbb{R}^{(n, n)}}_{\text{орт. матрица}}}$$
 1. **Левые сингулярные векторы (матрица $( U )$)**:
    - Матрица $( U )$ содержит левые сингулярные векторы, которые представляют собой ортонормальные столбцы.
    - Если $( A )$ имеет размер $( m \times n )$, то $( U )$ имеет размер $( m \times m )$.
@@ -127,5 +79,5 @@ $$
 
 Оптимизация: $\Large ||A_{\text{исходная матрица}} - \hat R_{\text{Полученная урезанная матрица}}||^2_F\rightarrow \min$
 
-Хранить мы можем только $A$ и $V$ потому что: $$\large\begin{matrix} AV_kV^T_k = U\Sigma V^TV_kV^T_k \\ AV_kV^T_k = U_k\Sigma_k V^T_k = \hat R\end{matrix}$$
+Хранить мы можем только $A$ и $V$ потому что: $$\large AV_kV^T_k = U\Sigma V^TV_kV^T_k $$$$ AV_kV^T_k = U_k\Sigma_k V^T_k = \hat R$$
 
