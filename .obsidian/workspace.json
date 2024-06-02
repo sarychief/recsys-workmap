@@ -11,14 +11,11 @@
             "id": "3e62ccb3b887a2df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
-                "viewState": {
-                  "x": 805.831850658858,
-                  "y": 1335.823427525622,
-                  "zoom": -1.473724168920698
-                }
+                "file": "docs/topics_frontend/Collaborative filtering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
+                "file": "docs/topics_frontend/Collaborative filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
+                "file": "docs/topics_frontend/Collaborative filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/graph-data-frontend.canvas"
+                "file": "docs/topics_frontend/Collaborative filtering.md"
               }
             }
           }
@@ -151,13 +148,34 @@
   },
   "active": "3e62ccb3b887a2df",
   "lastOpenFiles": [
-    "docs/topics_frontend/SVD.md",
-    "docs/topics_frontend/Коллаборативная фильтрация.md",
-    "docs/topics_frontend/Two-stage Architectures.md",
+    "photos/Pasted image 20240602031340.png",
     "docs/graph-data-frontend.canvas",
-    "docs/topics_frontend/User-user kNN.md",
+    "docs/topics_frontend/Hybrid.md",
+    "docs/topics_frontend/Neural Networks.md",
+    "docs/topics_frontend/Matrix Factorization.md",
+    "docs/topics_frontend/NCF.md",
+    "docs/topics_frontend/Collaborative filtering.md",
+    "docs/topics_frontend/Cold Start.md",
+    "docs/topics_frontend/Contextual Bandits.md",
+    "docs/topics_frontend/Multi-Armed Bandit.md",
+    "docs/topics_frontend/GRU.md",
+    "docs/topics_frontend/BERT.md",
+    "docs/topics_frontend/Approximate Nearest Neighbors.md",
+    "docs/topics_frontend/GBDT.md",
+    "docs/topics_frontend/Faiss.md",
+    "docs/topics_frontend/HNSW.md",
+    "docs/topics_frontend/Deep Q-Learning.md",
+    "docs/topics_frontend/LambdaMART.md",
+    "docs/topics_frontend/ListMLE.md",
+    "docs/topics_frontend/ListNet.md",
+    "docs/topics_frontend/RankSVM.md",
+    "docs/topics_frontend/RankBoost.md",
+    "docs/topics_frontend/RankNet.md",
+    "docs/topics_frontend/Trees.md",
+    "docs/topics_frontend/Item-item kNN.md",
+    "docs/topics_frontend/RNN.md",
+    "docs/topics_frontend/CNN.md",
     "docs/graph-data-frontend 1.canvas",
-    "docs/topics_frontend/Neighbour-based CF.md",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/service_workflow.ts",
@@ -168,27 +186,6 @@
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_token_cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_service_workflow.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/aws_service_workflow.ts",
-    "node_modules/mongoose/node_modules/@types/whatwg-url/README.md",
-    "node_modules/send/node_modules/ms/readme.md",
-    "node_modules/send/node_modules/ms/license.md",
-    "node_modules/nodemon/node_modules/debug/README.md",
-    "node_modules/nodemon/node_modules/ms/readme.md",
-    "node_modules/nodemon/node_modules/ms/license.md",
-    "node_modules/mquery/node_modules/ms/readme.md",
-    "node_modules/mquery/node_modules/ms/license.md",
-    "node_modules/mquery/node_modules/debug/README.md",
-    "node_modules/mongoose/node_modules/whatwg-url/README.md",
-    "node_modules/mongoose/node_modules/ms/readme.md",
-    "node_modules/mongoose/node_modules/ms/license.md",
-    "node_modules/mongoose/node_modules/tr46/README.md",
-    "node_modules/mongoose/node_modules/tr46/LICENSE.md",
-    "node_modules/mongoose/node_modules/mongodb-connection-string-url/README.md",
-    "node_modules/mongoose/node_modules/mongodb/README.md",
-    "node_modules/mongoose/node_modules/mongodb/LICENSE.md",
-    "node_modules/mongoose/lib/drivers/SPEC.md",
-    "node_modules/bson/vendor/text-encoding/README.md",
-    "node_modules/bson/vendor/text-encoding/LICENSE.md",
-    "node_modules/bson/vendor/base64/README.md",
     "Pasted image 20240427213256.png"
   ]
 }
