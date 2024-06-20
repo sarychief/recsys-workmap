@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/topics_frontend/Collaborative filtering.md",
+                "file": "docs/topics_frontend/GroupWise.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed71a81395d95373",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "docs/graph-data-frontend.canvas",
+                "viewState": {
+                  "x": 3483.8225742682666,
+                  "y": 2673.2528999181422,
+                  "zoom": -2.6435922300971435
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/topics_frontend/Collaborative filtering.md",
+                "file": "docs/graph-data-frontend.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/topics_frontend/Collaborative filtering.md",
+                "file": "docs/graph-data-frontend.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/topics_frontend/Collaborative filtering.md"
+                "file": "docs/graph-data-frontend.canvas"
               }
             }
           }
@@ -146,35 +162,35 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3e62ccb3b887a2df",
+  "active": "ed71a81395d95373",
   "lastOpenFiles": [
     "photos/Pasted image 20240602031340.png",
     "docs/graph-data-frontend.canvas",
-    "docs/topics_frontend/Hybrid.md",
-    "docs/topics_frontend/Neural Networks.md",
-    "docs/topics_frontend/Matrix Factorization.md",
-    "docs/topics_frontend/NCF.md",
-    "docs/topics_frontend/Collaborative filtering.md",
-    "docs/topics_frontend/Cold Start.md",
-    "docs/topics_frontend/Contextual Bandits.md",
-    "docs/topics_frontend/Multi-Armed Bandit.md",
-    "docs/topics_frontend/GRU.md",
-    "docs/topics_frontend/BERT.md",
-    "docs/topics_frontend/Approximate Nearest Neighbors.md",
-    "docs/topics_frontend/GBDT.md",
+    "docs/topics_frontend/Recall@k.md",
+    "docs/topics_frontend/Precision@k.md",
+    "docs/topics_frontend/MAP.md",
+    "docs/topics_frontend/NDCG.md",
+    "docs/topics_frontend/SetRank.md",
+    "docs/topics_frontend/Listwise metrics.md",
+    "docs/topics_frontend/Listwise models.md",
+    "docs/topics_frontend/LogLoss.md",
+    "docs/topics_frontend/MAE.md",
+    "docs/topics_frontend/MSE.md",
+    "docs/topics_frontend/Пример данных для LTR.md",
+    "docs/topics_frontend/Candidate Generation.md",
+    "docs/topics_frontend/Learning to Rank.md",
+    "docs/topics_frontend/Candidate Ranking.md",
+    "docs/topics_frontend/ScaNN.md",
+    "docs/topics_frontend/Annoy.md",
     "docs/topics_frontend/Faiss.md",
     "docs/topics_frontend/HNSW.md",
-    "docs/topics_frontend/Deep Q-Learning.md",
-    "docs/topics_frontend/LambdaMART.md",
-    "docs/topics_frontend/ListMLE.md",
-    "docs/topics_frontend/ListNet.md",
-    "docs/topics_frontend/RankSVM.md",
-    "docs/topics_frontend/RankBoost.md",
-    "docs/topics_frontend/RankNet.md",
-    "docs/topics_frontend/Trees.md",
-    "docs/topics_frontend/Item-item kNN.md",
-    "docs/topics_frontend/RNN.md",
-    "docs/topics_frontend/CNN.md",
+    "docs/topics_frontend/Collaborative filtering.md",
+    "docs/topics_frontend/Approximate Nearest Neighbors.md",
+    "docs/topics_frontend/LinUCB.md",
+    "docs/topics_frontend/Thompson Sampling.md",
+    "docs/topics_frontend/Pointwise metrics.md",
+    "docs/topics_frontend/Pointwise models.md",
+    "docs/topics_frontend/PairAccuracy.md",
     "docs/graph-data-frontend 1.canvas",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
