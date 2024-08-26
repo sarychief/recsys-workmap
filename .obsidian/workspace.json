@@ -8,34 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e62ccb3b887a2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/topics_frontend/GroupWise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed71a81395d95373",
+            "id": "e127406492041ac3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "docs/graph-data-frontend.canvas",
                 "viewState": {
-                  "x": 3483.8225742682666,
-                  "y": 2673.2528999181422,
-                  "zoom": -2.6435922300971435
+                  "x": 4333.2246092166715,
+                  "y": 5327.791190191539,
+                  "zoom": -1.7731640556454695
                 }
               }
             }
+          },
+          {
+            "id": "d5624ddbc4596efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/topics_frontend/Epsilon-Greedy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db3c0a3350fb06f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/topics_frontend/NDCG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "производная",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19e017264505c69f",
@@ -162,35 +174,38 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ed71a81395d95373",
+  "active": "e127406492041ac3",
   "lastOpenFiles": [
-    "photos/Pasted image 20240602031340.png",
+    "docs/topics_frontend/One-stage Architectures.md",
     "docs/graph-data-frontend.canvas",
-    "docs/topics_frontend/Recall@k.md",
-    "docs/topics_frontend/Precision@k.md",
-    "docs/topics_frontend/MAP.md",
-    "docs/topics_frontend/NDCG.md",
-    "docs/topics_frontend/SetRank.md",
-    "docs/topics_frontend/Listwise metrics.md",
-    "docs/topics_frontend/Listwise models.md",
-    "docs/topics_frontend/LogLoss.md",
-    "docs/topics_frontend/MAE.md",
-    "docs/topics_frontend/MSE.md",
-    "docs/topics_frontend/Пример данных для LTR.md",
-    "docs/topics_frontend/Candidate Generation.md",
-    "docs/topics_frontend/Learning to Rank.md",
-    "docs/topics_frontend/Candidate Ranking.md",
-    "docs/topics_frontend/ScaNN.md",
-    "docs/topics_frontend/Annoy.md",
-    "docs/topics_frontend/Faiss.md",
-    "docs/topics_frontend/HNSW.md",
+    "docs/topics_frontend/Model Blending.md",
+    "docs/topics_frontend/Stacking.md",
+    "docs/topics_frontend/Bagging.md",
+    "docs/topics_frontend/SVD.md",
     "docs/topics_frontend/Collaborative filtering.md",
-    "docs/topics_frontend/Approximate Nearest Neighbors.md",
-    "docs/topics_frontend/LinUCB.md",
-    "docs/topics_frontend/Thompson Sampling.md",
-    "docs/topics_frontend/Pointwise metrics.md",
-    "docs/topics_frontend/Pointwise models.md",
-    "docs/topics_frontend/PairAccuracy.md",
+    "docs/topics_frontend/Feature Augmentation.md",
+    "docs/topics_frontend/Mixing.md",
+    "docs/topics_frontend/Meta-level.md",
+    "docs/topics_frontend/Adding Features.md",
+    "docs/topics_frontend/Cascade Hybrid.md",
+    "docs/topics_frontend/Switching Hybrid.md",
+    "docs/topics_frontend/Weighted Hybrid.md",
+    "docs/topics_frontend/Context-Aware Re-Ranking.md",
+    "docs/topics_frontend/Diversity-Aware Re-Ranking.md",
+    "docs/topics_frontend/Re-Ranking.md",
+    "docs/topics_frontend/Complex Approaches.md",
+    "docs/topics_frontend/Learning to Rank.md",
+    "docs/topics_frontend/Reinforcement Learning.md",
+    "docs/topics_frontend/Non-Contextual MAB.md",
+    "docs/topics_frontend/Neural Networks.md",
+    "docs/topics_frontend/Epsilon-Greedy.md",
+    "docs/topics_frontend/EASE.md",
+    "docs/topics_frontend/E.md",
+    "docs/topics_frontend/Boosting.md",
+    "docs/topics_frontend/ALS.md",
+    "docs/topics_frontend/CTR",
+    "Pasted image 20240722002221.png",
+    "photos/Pasted image 20240602031340.png",
     "docs/graph-data-frontend 1.canvas",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/token_entry_cache.ts",
@@ -201,7 +216,6 @@
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_token_cache.ts",
     "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/azure_service_workflow.ts",
-    "node_modules/mongoose/node_modules/mongodb/src/cmap/auth/mongodb_oidc/aws_service_workflow.ts",
     "Pasted image 20240427213256.png"
   ]
 }
