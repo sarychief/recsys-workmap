@@ -11,14 +11,11 @@
             "id": "e127406492041ac3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
-                "viewState": {
-                  "x": 4333.2246092166715,
-                  "y": 5327.791190191539,
-                  "zoom": -1.7731640556454695
-                }
+                "file": "docs/topics_frontend/Boosting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -75,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "производная",
+                "query": "boosting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "19e017264505c69f",
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
+                "file": "docs/topics_frontend/Boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/graph-data-frontend.canvas",
+                "file": "docs/topics_frontend/Boosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/graph-data-frontend.canvas"
+                "file": "docs/topics_frontend/Boosting.md"
               }
             }
           }
@@ -176,8 +173,8 @@
   },
   "active": "e127406492041ac3",
   "lastOpenFiles": [
-    "docs/topics_frontend/One-stage Architectures.md",
     "docs/graph-data-frontend.canvas",
+    "docs/topics_frontend/One-stage Architectures.md",
     "docs/topics_frontend/Model Blending.md",
     "docs/topics_frontend/Stacking.md",
     "docs/topics_frontend/Bagging.md",
@@ -202,7 +199,6 @@
     "docs/topics_frontend/EASE.md",
     "docs/topics_frontend/E.md",
     "docs/topics_frontend/Boosting.md",
-    "docs/topics_frontend/ALS.md",
     "docs/topics_frontend/CTR",
     "Pasted image 20240722002221.png",
     "photos/Pasted image 20240602031340.png",
