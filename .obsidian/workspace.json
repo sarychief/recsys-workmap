@@ -11,11 +11,9 @@
             "id": "e127406492041ac3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/topics_frontend/Boosting.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/images/Pasted image 20240722002221.png"
               }
             }
           },
@@ -72,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boosting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/topics_frontend/Boosting.md",
+                "file": "docs/images/Pasted image 20240722002221.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/topics_frontend/Boosting.md",
+                "file": "docs/images/Pasted image 20240722002221.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/topics_frontend/Boosting.md"
+                "file": "docs/images/Pasted image 20240722002221.png"
               }
             }
           }
@@ -173,6 +170,15 @@
   },
   "active": "e127406492041ac3",
   "lastOpenFiles": [
+    "docs/images/delete.png",
+    "docs/images/cross.png",
+    "docs/images/Pasted image 20240722002221.png",
+    "docs/images/404.gif",
+    "Метрики.md",
+    "README.md",
+    "docs/topics_frontend/Boosting.md",
+    "Без названия 1.md",
+    "Без названия.md",
     "docs/graph-data-frontend.canvas",
     "docs/topics_frontend/One-stage Architectures.md",
     "docs/topics_frontend/Model Blending.md",
@@ -194,13 +200,7 @@
     "docs/topics_frontend/Learning to Rank.md",
     "docs/topics_frontend/Reinforcement Learning.md",
     "docs/topics_frontend/Non-Contextual MAB.md",
-    "docs/topics_frontend/Neural Networks.md",
-    "docs/topics_frontend/Epsilon-Greedy.md",
-    "docs/topics_frontend/EASE.md",
-    "docs/topics_frontend/E.md",
-    "docs/topics_frontend/Boosting.md",
     "docs/topics_frontend/CTR",
-    "Pasted image 20240722002221.png",
     "photos/Pasted image 20240602031340.png",
     "docs/graph-data-frontend 1.canvas",
     "node_modules/mongoose/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/aws_service_workflow.js",
