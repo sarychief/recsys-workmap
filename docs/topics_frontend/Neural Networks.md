@@ -142,5 +142,8 @@ $x_l \Rightarrow {\color{green}\text{[Layer Norm]}} \rightarrow{\color{orange}\t
 
 Если задача машинного перевода, этот блок нужен для начала написания текста на другом языке 
 
- 
+---
+---
+---
+
 

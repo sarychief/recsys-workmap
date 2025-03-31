@@ -1,4 +1,4 @@
-# Neighbour-based Collaborative Filtering (CF)
+# Memory-based Collaborative Filtering (CF)
 
 Этот подход делает рекомендации, используя сходство между пользователями или объектами.
 
